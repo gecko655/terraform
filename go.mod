@@ -124,7 +124,7 @@ require (
 	golang.org/x/mod v0.3.0
 	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
 	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
-	golang.org/x/sys v0.0.0-20201119102817-f84b799fce68
+	golang.org/x/sys v0.1.0
 	golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf
 	golang.org/x/text v0.3.5
 	golang.org/x/tools v0.0.0-20201028111035-eafbe7b904eb
